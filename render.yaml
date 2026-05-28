@@ -1,0 +1,5 @@
+services:
+    - type: web
+    name: banchecker
+    env: docker
+    startCommand: ./Commencer.sh
